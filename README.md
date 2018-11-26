@@ -8,3 +8,8 @@ It really whips the llama's ass.
 
 * wine
 * Winamp, installed to a directory within $WINEPREFIX
+
+## Building
+
+1. Run `make`.
+2. Copy `Winamp.app` to `/Applications` (or wherever).
